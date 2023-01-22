@@ -8,12 +8,12 @@
 
 ### Introduction
 
-Even a woman delivers a baby; she is left with stretch marks. You are giving birth to writers; your watermark is no less than those stretch marks. Now days watermark has many uses such as copyright protection, owner protection, add descriptive captions, etc.
-We are working on watermarking of images using python and open CV. WE will also compare the watermarked images using PSNR, SSIM, RMSE, NRMSE, MSE. Other than watermarking, we will also give the options to crop an image, resize an image and compress an image to our software.
+Even a mother who gives birth to a child has stretch marks. Your watermark is no less than those stretch marks since you are giving birth to writers. Today, watermarks are used for a variety of purposes, including adding descriptive captions, copyright protection, and owner protection.
+Using Python and OpenCV, we are working on image watermarking. We will also use PSNR, SSIM, RMSE, NRMSE, and MSE to compare the watermarked images. In addition to watermarking, our software will also offer the ability to trim, resize, and compress images.
 
-![image](https://user-images.githubusercontent.com/78999231/212916867-a80edfee-852d-4662-bb75-0d9aae812788.png)
+![image](https://user-images.githubusercontent.com/92686380/213913810-8bec715c-e47c-4526-9668-4956a0a80ede.png)
 
-![image](https://user-images.githubusercontent.com/78999231/212916908-0333644b-5cfa-43d5-84ca-ecd42721d9a7.png)
+![image](https://user-images.githubusercontent.com/92686380/213913821-9b237d5e-9dd3-4d19-b585-59b244943c8a.png)
 
 Watermarking is the process of superimposing a logo or a piece of a text on top of a document or image. It’s an important process when it comes to both the copyright protection and marketing of digital works.
 We will do this with the help of open CV which is a huge open-source library for computer vision, machine learning and image tampering. It helps us to automate the task. It will be very simple software and very easy to use so that even a person from non-coding background can make the best use of our software.
@@ -46,9 +46,9 @@ The services that will be provided by the our application will be-
 
 ### KEY IMPLEMENTATIONS OUTLINES OF THE SYSTEM
 
-Perpetration is the process that actually yields the smallest- position system rudiments in the system scale ( system breakdown structure). System rudiments are made, bought, or reused. Product involves the tackle fabrication processes of forming, removing, joining, and finishing, the software consummation processes of rendering and testing, or the functional procedures development processes for drivers' roles. However, a manufacturing system which uses the established specialized and operation processes may be needed, If perpetration involves a product process. 
+The system scale's smallest-position system rudiments are actually produced by the repetition process ( system breakdown structure). System foundations are created, purchased, or recycled. Products may include the rendering and testing phases of software, the shaping, removing, connecting, and finishing phases of tackle production, or the functional procedure development phases for driver roles. However, if a product process is involved, a production system that employs the existing specialised and operation processes may be required.
  
- The purpose of the perpetration process is to design and produce (or fabricate) a system element conforming to that element’s design parcels and/ or conditions. The element is constructed employing applicable technologies and assiduity practices. This process bridges the system description processes and the integration process.
+The purpose of the perpetration process is to design and produce (or fabricate) a system element conforming to that element’s design parcels and/ or conditions. The element is constructed employing applicable technologies and assiduity practices. This process bridges the system description processes and the integration process.
 
 ### SIGNIFICANT PROJECT OUTCOMES
 
