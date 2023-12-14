@@ -44,12 +44,6 @@ The services that will be provided by the our application will be-
   -	Compressing
   -	Resizing
 
-### KEY IMPLEMENTATIONS OUTLINES OF THE SYSTEM
-
-The system scale's smallest-position system rudiments are actually produced by the repetition process ( system breakdown structure). System foundations are created, purchased, or recycled. Products may include the rendering and testing phases of software, the shaping, removing, connecting, and finishing phases of tackle production, or the functional procedure development phases for driver roles. However, if a product process is involved, a production system that employs the existing specialised and operation processes may be required.
- 
-The purpose of the perpetration process is to design and produce (or fabricate) a system element conforming to that element’s design parcels and/ or conditions. The element is constructed employing applicable technologies and assiduity practices. This process bridges the system description processes and the integration process.
-
 ### SIGNIFICANT PROJECT OUTCOMES
 
 The significant project outcomes are- the watermark image, cropped image, compresse image and the resized image.
